@@ -115,7 +115,7 @@ python main.py
 
 ### Главный экран (тёмная тема)
 
-```
+
 <img width="1292" height="872" alt="image" src="https://github.com/user-attachments/assets/9ab0ec87-b7ab-4d5d-902a-0b61745cc054" />
 
 ```
